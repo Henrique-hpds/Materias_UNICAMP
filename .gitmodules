@@ -1,6 +1,6 @@
 [submodule "Disciplinas/F129-Fisica-Experimental-I"]
 	path = Disciplinas/F129-Fisica-Experimental-I
 	url = git@github.com:Henrique-hpds/F129-Fisica-Experimental-I.git
-[submodule "F329-Fisica-Experimental-III"]
+[submodule "Disciplinas/F329-Fisica-Experimental-III"]
 	path = Disciplinas/F329-Fisica-Experimental-III
 	url = git@github.com:Henrique-hpds/F329-Fisica-Experimental-III.git
