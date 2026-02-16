@@ -4,6 +4,6 @@
 [submodule "Disciplinas/F329-Fisica-Experimental-III"]
 	path = Disciplinas/F329-Fisica-Experimental-III
 	url = git@github.com:Henrique-hpds/F329-Fisica-Experimental-III.git
-[submodule "MC558-Projeto-e-Analise-de-Algoritmos-II"]
+[submodule "Disciplina/sMC558-Projeto-e-Analise-de-Algoritmos-II"]
 	path = Disciplinas/MC558-Projeto-e-Analise-de-Algoritmos-II
 	url = git@github.com:Henrique-hpds/MC558-Projeto-e-Analise-de-Algoritmos-II.git
