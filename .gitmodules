@@ -10,3 +10,6 @@
 [submodule "Disciplinas/MC920-Introducao-ao-Processamento-de-Imagem-Digital"]
 	path = Disciplinas/MC920-Introducao-ao-Processamento-de-Imagem-Digital
 	url = git@github.com:Henrique-hpds/MC920-Introducao-ao-Processamento-de-Imagem-Digital.git
+[submodule "Disciplinas/MC970-Introducao-a-Programacao-Paralela"]
+	path = Disciplinas/MC970-Introducao-a-Programacao-Paralela
+	url = git@github.com:Henrique-hpds/MC970-Introducao-a-Programacao-Paralela.git
