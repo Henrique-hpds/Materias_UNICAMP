@@ -16,3 +16,6 @@
 [submodule "Disciplinas/MC504-Sistemas-Operacionais"]
 	path = Disciplinas/MC504-Sistemas-Operacionais
 	url = git@github.com:Henrique-hpds/MC504-Sistemas-Operacionais.git
+[submodule "Disciplinas/EE534-Laboratorio-de-Eletronica-Aplicada"]
+	path = Disciplinas/EE534-Laboratorio-de-Eletronica-Aplicada
+	url = git@github.com:Henrique-hpds/EE534-Laboratorio-de-Eletronica-Aplicada.git
