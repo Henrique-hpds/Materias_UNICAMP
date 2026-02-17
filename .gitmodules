@@ -22,3 +22,6 @@
 [submodule "Disciplinas/MS211-Calculo-Numerico"]
 	path = Disciplinas/MS211-Calculo-Numerico
 	url = git@github.com:Henrique-hpds/MS211-Calculo-Numerico.git
+[submodule "Disciplinas/MC656-Engenharia-de-Software"]
+	path = Disciplinas/MC656-Engenharia-de-Software
+	url = git@github.com:Henrique-hpds/MC656-Engenharia-de-Software.git
