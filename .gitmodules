@@ -7,3 +7,6 @@
 [submodule "Disciplinas/MC558-Projeto-e-Analise-de-Algoritmos-II"]
 	path = Disciplinas/MC558-Projeto-e-Analise-de-Algoritmos-II
 	url = git@github.com:Henrique-hpds/MC558-Projeto-e-Analise-de-Algoritmos-II.git
+[submodule "Disciplinas/MC920-Introducao-ao-Processamento-de-Imagem-Digital"]
+	path = Disciplinas/MC920-Introducao-ao-Processamento-de-Imagem-Digital
+	url = git@github.com:Henrique-hpds/MC920-Introducao-ao-Processamento-de-Imagem-Digital.git
