@@ -19,3 +19,6 @@
 [submodule "Disciplinas/EE534-Laboratorio-de-Eletronica-Aplicada"]
 	path = Disciplinas/EE534-Laboratorio-de-Eletronica-Aplicada
 	url = git@github.com:Henrique-hpds/EE534-Laboratorio-de-Eletronica-Aplicada.git
+[submodule "Disciplinas/MS211-Calculo-Numerico"]
+	path = Disciplinas/MS211-Calculo-Numerico
+	url = git@github.com:Henrique-hpds/MS211-Calculo-Numerico.git
