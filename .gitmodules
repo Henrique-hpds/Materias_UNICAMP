@@ -31,3 +31,6 @@
 [submodule "Disciplinas/CE839-Introducao-a-Administracao-para-Computacao"]
 	path = Disciplinas/CE839-Introducao-a-Administracao-para-Computacao
 	url = git@github.com:Henrique-hpds/CE839-Introducao-a-Administracao-para-Computacao.git
+[submodule "Disciplinas/IA376-Deep-Generative-Models"]
+	path = Disciplinas/IA376-Deep-Generative-Models
+	url = git@github.com:Henrique-hpds/IA376-Deep-Generative-Models.git
