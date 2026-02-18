@@ -34,3 +34,6 @@
 [submodule "Disciplinas/IA376-Deep-Generative-Models"]
 	path = Disciplinas/IA376-Deep-Generative-Models
 	url = git@github.com:Henrique-hpds/IA376-Deep-Generative-Models.git
+[submodule "Disciplinas/IA367-Introducao-ao-Aprendizado-por-Reforco"]
+	path = Disciplinas/IA367-Introducao-ao-Aprendizado-por-Reforco
+	url = git@github.com:Henrique-hpds/IA367-Introducao-ao-Aprendizado-por-Reforco.git
