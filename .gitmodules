@@ -37,3 +37,6 @@
 [submodule "Disciplinas/IA367-Introducao-ao-Aprendizado-por-Reforco"]
 	path = Disciplinas/IA367-Introducao-ao-Aprendizado-por-Reforco
 	url = git@github.com:Henrique-hpds/IA367-Introducao-ao-Aprendizado-por-Reforco.git
+[submodule "Disciplinas/MC832-Redes-de-Computadores"]
+	path = Disciplinas/MC832-Redes-de-Computadores
+	url = git@github.com:Henrique-hpds/MC832-Redes-de-Computadores.git
