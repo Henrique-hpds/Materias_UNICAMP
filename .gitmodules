@@ -28,3 +28,6 @@
 [submodule "Disciplinas/EA772-Circuitos-Logicos"]
 	path = Disciplinas/EA772-Circuitos-Logicos
 	url = git@github.com:Henrique-hpds/EA772-Circuitos-Logicos.git
+[submodule "Disciplinas/CE839-Introducao-a-Administracao-para-Computacao"]
+	path = Disciplinas/CE839-Introducao-a-Administracao-para-Computacao
+	url = git@github.com:Henrique-hpds/CE839-Introducao-a-Administracao-para-Computacao.git
