@@ -25,3 +25,6 @@
 [submodule "Disciplinas/MC656-Engenharia-de-Software"]
 	path = Disciplinas/MC656-Engenharia-de-Software
 	url = git@github.com:Henrique-hpds/MC656-Engenharia-de-Software.git
+[submodule "Disciplinas/EA772-Circuitos-Logicos"]
+	path = Disciplinas/EA772-Circuitos-Logicos
+	url = git@github.com:Henrique-hpds/EA772-Circuitos-Logicos.git
