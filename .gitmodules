@@ -43,3 +43,6 @@
 [submodule "Disciplinas/MC886-Aprendizado-de-Maquina"]
 	path = Disciplinas/MC886-Aprendizado-de-Maquina
 	url = git@github.com:Henrique-hpds/MC886-Aprendizado-de-Maquina.git
+[submodule "Disciplinas/MC102-Algoritmos-e-Programacao-de-Computadores"]
+	path = Disciplinas/MC102-Algoritmos-e-Programacao-de-Computadores
+	url = git@github.com:Henrique-hpds/MC102-Algoritmos-e-Programacao-de-Computadores.git
