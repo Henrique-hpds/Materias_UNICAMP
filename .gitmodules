@@ -40,3 +40,6 @@
 [submodule "Disciplinas/MC832-Redes-de-Computadores"]
 	path = Disciplinas/MC832-Redes-de-Computadores
 	url = git@github.com:Henrique-hpds/MC832-Redes-de-Computadores.git
+[submodule "Disciplinas/MC886-Aprendizado-de-Maquina"]
+	path = Disciplinas/MC886-Aprendizado-de-Maquina
+	url = git@github.com:Henrique-hpds/MC886-Aprendizado-de-Maquina.git
