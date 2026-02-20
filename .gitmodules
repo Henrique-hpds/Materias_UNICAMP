@@ -46,3 +46,6 @@
 [submodule "Disciplinas/MC102-Algoritmos-e-Programacao-de-Computadores"]
 	path = Disciplinas/MC102-Algoritmos-e-Programacao-de-Computadores
 	url = git@github.com:Henrique-hpds/MC102-Algoritmos-e-Programacao-de-Computadores.git
+[submodule "Disciplinas/MC202-Estruturas-de-Dados"]
+	path = Disciplinas/MC202-Estruturas-de-Dados
+	url = git@github.com:Henrique-hpds/MC202-Estruturas-de-Dados.git
